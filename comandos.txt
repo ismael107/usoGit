@@ -2,3 +2,15 @@ git init
 git config user.name "nombre"
 git config  user.email "email"
 git remote add origin "url"
+
+
+git clone + git pull
+----------------------
+git clone [url]
+
+
+/* solo las actualizaciones
+
+git pull origin master 
+
+
